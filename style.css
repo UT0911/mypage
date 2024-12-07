@@ -1,0 +1,28 @@
+body{
+    background-color:#78B3CE;
+}
+
+.list{
+    display:flex;
+    flex-direction:column;
+}
+
+.account{
+    display:flex;
+    flex-direction:row;
+}
+
+.accountLink{
+    text-decoration:none;
+}
+
+.icon{
+    width:250px;
+    height:250px;
+    padding:10px;
+}
+
+.name{
+    font-size:35px;
+    color:#C9E6F0;
+}
