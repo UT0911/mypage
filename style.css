@@ -1,28 +1,31 @@
-body{
-    background-color:#78B3CE;
+.flame {
+    margin: 10px 0;
 }
 
-.list{
-    display:flex;
-    flex-direction:column;
+.account {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #000;
 }
 
-.account{
-    display:flex;
-    flex-direction:row;
+.icon img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
 }
 
-.accountLink{
-    text-decoration:none;
+.name {
+    font-weight: bold;
+    margin: 0;
+
 }
 
-.icon{
-    width:250px;
-    height:250px;
-    padding:10px;
-}
-
-.name{
-    font-size:35px;
-    color:#C9E6F0;
+.text {
+    margin: 0;
+    color: #555;
 }
