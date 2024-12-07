@@ -18,6 +18,10 @@
     background-color: rgb(244, 242, 242);
 }
 
+.accountLink {
+    text-decoration: none;
+}
+
 .icon img {
     width: 50px;
     height: 50px;
