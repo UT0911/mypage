@@ -1,3 +1,8 @@
+.title{
+    font-size:30px;
+    margin:0px
+}
+
 .flame {
     margin: 10px 0;
 }
@@ -10,6 +15,7 @@
     border-radius: 5px;
     text-decoration: none;
     color: #000;
+    background-color: rgb(244, 242, 242);
 }
 
 .icon img {
