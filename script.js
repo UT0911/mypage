@@ -27,14 +27,14 @@ const profiles = [
   {
     accountLink: "https://x.com/UThololistener",
     icon: "icons/oshi.jpg",
-    name: "  推し活垢",
+    name: "仕事用垢",
     text: "推し活用アカウントです。同担拒否の方は注意。"
   },
   {
-    accountLink: "https://x.com/UTGAMEROOM",
-    icon: "icons/game.jpg",
-    name: "ゲーム垢",
-    text: "ゲーム関係の投稿をしています。"
+    accountLink: "https://x.com/UtCoder_UBC911",
+    icon: "icons/atcoder.png",
+    name: "AtCoder垢",
+    text: "AtCoderに関する投稿をします"
   }
 ];
 
