@@ -32,7 +32,7 @@ const profiles = [
   },
   {
     accountLink: "https://x.com/UtCoder_UBC911",
-    icon: "icons/atcoder.png",
+    icon: "icons/atcoder.jpg",
     name: "AtCoder垢",
     text: "AtCoderに関する投稿をします"
   }
