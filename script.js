@@ -27,7 +27,7 @@ const profiles = [
   {
     accountLink: "https://x.com/UThololistener",
     icon: "icons/oshi.jpg",
-    name: "仕事用垢",
+    name: "推し活用垢",
     text: "推し活用アカウントです。同担拒否の方は注意。"
   },
   {
