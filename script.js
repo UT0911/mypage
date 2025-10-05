@@ -19,7 +19,7 @@ const profiles = [
     text: "主に親しい人や弊学生のみ通しています。"
   },
   {
-    accountLink: "https://x.com/0911TU",
+    accountLink: "https://x.com/1190_TU",
     icon: "icons/kagi.jpg",
     name: "鍵垢",
     text: "愚痴、不満など。通す人は厳選します。"
